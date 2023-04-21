@@ -1,4 +1,4 @@
-name: Release DevOps with Docker
+name: Release MOOC DevOps Exercise 3.1
 on:
   push:
     branches:
